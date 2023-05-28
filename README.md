@@ -24,7 +24,7 @@ The FizzBuzz Game is a web application that generates a FizzBuzz sequence based 
 
 ## Preview
 
-![FizzBuzz Game Preview](screenshot.png)
+![FizzBuzz Game Preview](https://raw.githubusercontent.com/p7atama/fizzbuzz/main/fizzbuzz.png)
 
 ## Contributing
 
